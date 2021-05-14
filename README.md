@@ -10,5 +10,5 @@ Speedcubers, After years of practice and around a hundred algorithms take around
 
 How to Curb the Cube ?
 
-![Frame](assets/Frame.jpg)
+![Frame](assets/Frame.png)
 
