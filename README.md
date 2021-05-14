@@ -22,5 +22,5 @@ Face Notation :
   White - Down
   Yellow - Up
   Blue - Back
-
+**
 This is how you are supposed to hold the cube in your hand while scanning and solving the cube
