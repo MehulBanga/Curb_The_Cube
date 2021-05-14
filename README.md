@@ -29,7 +29,6 @@ eg. F key will capture Front Face.<br>
 ![Preview](assets/Preview_full.png)
 <br>
 <br>
-
 **Solution window contains the Move at the Top right Corner and The live state of the cube.** :arrow_down_small:
 <br><br>
 ![Solution](assets/Solution.png)
@@ -40,7 +39,7 @@ eg. F key will capture Front Face.<br>
 ![Guide](assets/Guide.png)
 <br>
 <br>
-
+**Once you get the solution window press any key to continue.**<br>
 **Move - R'** :arrow_down_small:
 <br><br>
 ![Solution](assets/Solution2.png)
