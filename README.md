@@ -25,3 +25,6 @@ Yellow - Up <br>
 Blue - Back*** <br>
 
 This is how you are supposed to hold the cube in your hand while scanning and solving the cube
+
+***Pressing the Key on the Center-piece of Faces of the Preview window will Store the face's Colors.***
+eg. F key will capture Front Face.
