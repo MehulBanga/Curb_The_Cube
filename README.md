@@ -14,13 +14,13 @@ Read The Instructions on the Frame window
 
 ![Frame](assets/Frame.png)
 
-***Note :
-Face Notation : 
-Green - Front 
-Orange - Right 
-Red - Left 
-White - Down 
-Yellow - Up 
-Blue - Back***
+***Note : <br>
+Face Notation : <br>
+Green - Front <br>
+Orange - Right <br>
+Red - Left <br>
+White - Down <br>
+Yellow - Up <br>
+Blue - Back*** <br>
 
 This is how you are supposed to hold the cube in your hand while scanning and solving the cube
