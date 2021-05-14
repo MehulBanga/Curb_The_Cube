@@ -16,7 +16,6 @@ from Solve import solve
 
 
 
-
 #Live video from webcam
 cap = cv.VideoCapture(0)
 cv.namedWindow('Frame')
