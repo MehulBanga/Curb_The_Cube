@@ -113,11 +113,3 @@ if __name__ == "__main__":
         cv.imshow("Frame", img)
     cap.release()   
     cv.destroyAllWindows()
-                        
-
-            
-            
-            
-            
-                       
-        
