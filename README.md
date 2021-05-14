@@ -13,7 +13,18 @@ How to Curb the Cube ?
 Read The Instructions on the Frame window
 
 ![Frame](assets/Frame.png)
+<br>
+
+Preview_Window after scanning Up and Right Face
 ![Preview](assets/Preview2.png)
+<br>
+
+Once all the faces are scanned, Press enter to view the Solution Window
+![Preview](assets/Preview_full.png)
+<br>
+
+Solution window contains the Move at the Top right Corner and The live state of the cube.
+![Solution](assets/Solution.png)
 
 ***Note : <br>
 Face Notation : <br>
