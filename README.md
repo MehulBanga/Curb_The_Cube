@@ -10,7 +10,7 @@ Speedcubers, After years of practice and around a hundred algorithms take around
 
 How to Curb the Cube ?
 <br><br>
-**Read The Instructions on the Frame window**
+**Read The Instructions on the Frame window** :arrow_down_small:
 
 ![Frame](assets/Frame.png)
 <br>
@@ -18,48 +18,48 @@ How to Curb the Cube ?
 
 ***Pressing the Key on the Center-piece of Faces of the Preview window will Store the face's Colors.***
 eg. F key will capture Front Face.<br>
-<br><br><br>
+<br><br>
 **Preview_Window after scanning Up and Right Face** :arrow_down_small:
 <br><br>
 ![Preview](assets/Preview2.png)
 <br>
 <br>
-**Once all the faces are scanned, Press enter to view the Solution Window**
+**Once all the faces are scanned, Press enter to view the Solution Window** :arrow_down_small:
 <br><br>
 ![Preview](assets/Preview_full.png)
 <br>
 <br>
 
-**Solution window contains the Move at the Top right Corner and The live state of the cube.**
+**Solution window contains the Move at the Top right Corner and The live state of the cube.** :arrow_down_small:
 <br><br>
 ![Solution](assets/Solution.png)
 <br>
 <br>
-**Follow Guide window to get help for performing the Moves.**
+**Follow Guide window to get help for performing the Moves.** :arrow_down_small:
 <br><br>
 ![Guide](assets/Guide.png)
 <br>
 <br>
 
-**Move - R'**
+**Move - R'** :arrow_down_small:
 <br><br>
 ![Solution](assets/Solution2.png)
 <br>
 <br>
 
-**Move - L2**
+**Move - L2** :arrow_down_small:
 <br><br>
 ![Solution](assets/Solution3.png)
 <br>
 <br>
 
-**Move - U2**
+**Move - U2** :arrow_down_small:
 <br><br>
 ![Solution](assets/Solution4.png)
 <br>
 <br>
 
-**Move - D'**
+**Move - D'** :arrow_down_small:
 <br><br>
 ![Solution](assets/Solution5.png)
 <br>
