@@ -9,7 +9,7 @@ Speedcubers, After years of practice and around a hundred algorithms take around
 -- Erno Rubik
 
 How to Curb the Cube ?
-<br>
+<br><br>
 **Read The Instructions on the Frame window**
 
 ![Frame](assets/Frame.png)
@@ -18,61 +18,61 @@ How to Curb the Cube ?
 
 ***Pressing the Key on the Center-piece of Faces of the Preview window will Store the face's Colors.***
 eg. F key will capture Front Face.
-<br>
+<br><br>
 **Preview_Window after scanning Up and Right Face**
-<br>
+<br><br>
 ![Preview](assets/Preview2.png)
 <br>
 <br>
 **Once all the faces are scanned, Press enter to view the Solution Window**
-<br>
+<br><br>
 ![Preview](assets/Preview_full.png)
 <br>
 <br>
 
 **Solution window contains the Move at the Top right Corner and The live state of the cube.**
-<br>
+<br><br>
 ![Solution](assets/Solution.png)
 <br>
 <br>
 **Follow Guide window to get help for performing the Moves.**
-<br>
+<br><br>
 ![Guide](assets/Guide.png)
 <br>
 <br>
 
 **Move - R'**
-<br>
+<br><br>
 ![Solution](assets/Solution2.png)
 <br>
 <br>
 
 **Move - L2**
-<br>
+<br><br>
 ![Solution](assets/Solution3.png)
 <br>
 <br>
 
 **Move - U2**
-<br>
+<br><br>
 ![Solution](assets/Solution4.png)
 <br>
 <br>
 
 **Move - D'**
-<br>
+<br><br>
 ![Solution](assets/Solution5.png)
 <br>
 <br>
 
 ***Note : <br>
 Face Notation : <br>
-Green - Front <br>
-Orange - Right <br>
-Red - Left <br>
-White - Down <br>
-Yellow - Up <br>
-Blue - Back*** <br>
+Green - Front(F) <br>
+Orange - Right(R) <br>
+Red - Left(L) <br>
+White - Down(D) <br>
+Yellow - Up(U) <br>
+Blue - Back(B)*** <br>
 
 This is how you are supposed to hold the cube in your hand while scanning and solving the cube
 
