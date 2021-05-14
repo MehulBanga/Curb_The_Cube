@@ -17,8 +17,8 @@ How to Curb the Cube ?
 <br>
 
 ***Pressing the Key on the Center-piece of Faces of the Preview window will Store the face's Colors.***
-eg. F key will capture Front Face.
-<br><br>
+eg. F key will capture Front Face.<br>
+<br><br><br>
 **Preview_Window after scanning Up and Right Face**
 <br><br>
 ![Preview](assets/Preview2.png)
