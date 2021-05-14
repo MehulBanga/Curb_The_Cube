@@ -13,6 +13,7 @@ How to Curb the Cube ?
 Read The Instructions on the Frame window
 
 ![Frame](assets/Frame.png)
+![Preview](assets/Preview.png)
 
 ***Note : <br>
 Face Notation : <br>
