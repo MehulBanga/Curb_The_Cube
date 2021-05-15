@@ -16,6 +16,7 @@ from Solve import solve
 
 
 
+
 #Live video from webcam
 cap = cv.VideoCapture(0)
 cv.namedWindow('Frame')
@@ -58,37 +59,37 @@ if __name__ == "__main__":
         if(k == 27):
             break
 
-#press w to scan upward face
-        elif k == ord("w"):
+#press u to scan upward face
+        elif k == ord("u"):
             cube["up"] = current_state
-            Scanned_faces.append("w")
+            Scanned_faces.append("u")
             
             
-#press d to scan right face            
-        elif k == ord("d"):
+#press r to scan right face            
+        elif k == ord("r"):
             cube["right"] = current_state
-            Scanned_faces.append("d")
+            Scanned_faces.append("r")
             
             
-#press a to scan left face            
-        elif k == ord("a"):
+#press l to scan left face            
+        elif k == ord("l"):
             cube["left"] = current_state
-            Scanned_faces.append("a")   
+            Scanned_faces.append("l")   
 
-#press s to scan downward face            
-        elif k == ord("s"):
+#press d to scan downward face            
+        elif k == ord("d"):
             cube["down"] = current_state
-            Scanned_faces.append("s") 
+            Scanned_faces.append("d") 
 
-#press z to scan front face              
-        elif k == ord("z"):
+#press f to scan front face              
+        elif k == ord("f"):
             cube["front"] = current_state
-            Scanned_faces.append("z") 
+            Scanned_faces.append("f") 
   
-#press x to scan backward face 
-        elif k == ord("x"):
+#press b to scan backward face 
+        elif k == ord("b"):
             cube["back"] = current_state
-            Scanned_faces.append("x") 
+            Scanned_faces.append("b") 
                     
         elif k == ord("\r"):
             if len(set(Scanned_faces)) == 6:
@@ -113,3 +114,4 @@ if __name__ == "__main__":
         cv.imshow("Frame", img)
     cap.release()   
     cv.destroyAllWindows()
+    
